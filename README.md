@@ -8,7 +8,7 @@ It was one of the web game in the Yahoo korea.
 ![image](https://user-images.githubusercontent.com/20471600/121534792-839ec100-ca3c-11eb-8c5a-0da53fccf0d1.png)
 
 
-<<Game Rule>>
+**Game Rule**
   
   0. It's a turn-based game and victory condition is making oppnent's HP 0.
   
