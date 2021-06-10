@@ -12,7 +12,7 @@ It was one of the web game in the Yahoo korea.
   
   0. It's a turn-based game and victory condition is making oppnent's HP 0.
   
-  <Before starting>
+  **Before starting**
   
   1. Join two players into room and game is started when both of the players set 'Ready'
   
@@ -20,7 +20,7 @@ It was one of the web game in the Yahoo korea.
   
   3. The player's character is showed behind the chosen door. Each player can't see over the door and only can see the beyond the own character's door, but, they can see other player's character if two characters are behind same door.
   
-  <In playing>
+  **In playing**
   
   4. In player A turn, A can choose one of the two actions('Move' or 'Attack'). All actions will be conducted and it's just for order. However, the each action's timeout is 30 sec.
  
